@@ -1,0 +1,72 @@
+html {
+    scroll-behavior: smooth
+          }
+          .top {
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #fff;
+    background: #000;
+    border-radius: 100px;
+  }
+  body {
+      position: relative; 
+    }
+          .mynav{background-color: #f4511e;width: 100%;height: 30px;}
+      .mynav .navbar-nav >li >a{color: white;}
+      .mynav .navbar-nav >ul{margin: 0px;padding: 0px;}
+      #myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 9999;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+  }
+      
+      .mynav .navbar-header  >a{color: white;}
+      .jumbotron{background-color: #f4511e;width: 100%;height: 400px;margin-top: -20px;color: white;}
+      .inp{width: 200px;}
+      .nav navbar-nav navbar-right ul{font-size: 33px;}
+         .page{background-color: seashell;margin-top: -33px;}
+      .page h1{margin-top: 30px;color: purple;}
+  .page p{font-size: 20px;text-align: justify;margin-top: 30px;}  
+  .page button{background-color: transparent;padding: 20px;border-radius: 10px;margin-top: 17px;color: crimson;}  
+  .company{margin-top: 120px;}
+     .page .logo{font-size: 300px;color: #f4511e;padding-left: 30px;}
+     .values p{font-size: 22px;margin-top: 37px;}
+     .values{margin-top: 83px}
+     .our{background-color: aliceblue;}
+     .our .logo{font-size: 273px;color: orangered;}
+     .offer{background-color: beige;}
+     .what{margin-top: 36px;}
+      .what h1{font-size: xx-large;text-align: center;color: purple;}
+      .what h3{font-size: medium;text-align: center;color: goldenrod;}
+      .my{margin-top: 66px;text-align: center;}
+      .my h1{font-size: large;color: blue;}
+      .my p{color: green;}
+      .port{background-color: lavender;}
+      .created{margin-top: 33px;}
+      .created h1{text-align: center;}
+      .created p{text-align: center;}
+      .created h2{color: gray;text-align: center;}
+      .created h3{color: darkred;text-align: center;}
+      .country{margin-top: 22px;}
+      .pricing{background-color: palegoldenrod;}
+      .my p{margin-top: 22px;text-align: center;}
+      .my h1{text-align: center;}
+          .info li{margin-top: 33px;font-size: x-large;}
+          #About{width: 100%;height: auto;float: left;}
+          #Services{width: 100%;height: auto;float: left;}
+          #Portfolio{width: 100%;height: auto;float: left;}
+          #Pricing{width: 100%;height: auto;float: left;}
+          #Contact{width: 100%;height: auto;float: left;}
+          .panel-body p{font-size: 33px;}
+          
